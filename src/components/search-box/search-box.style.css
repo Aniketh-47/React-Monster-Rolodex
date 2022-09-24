@@ -1,0 +1,16 @@
+.search-box {
+  -webkit-appearance: none;
+  border: solid black 2px;
+  background-color: rgba(228, 228, 228, 0.635);
+  outline: none;
+  padding: 7px;
+  width: 300px;
+  line-height: 30px;
+  margin-bottom: 60px;
+  border-radius: 50px;
+  text-align: center;
+}
+.search-box:hover {
+  transition: all 1s;
+  border: solid rgb(253, 80, 60) 2px;
+}
